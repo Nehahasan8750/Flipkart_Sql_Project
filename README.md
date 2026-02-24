@@ -1,1 +1,2 @@
-# Flipkart_Sql_Project
+# This is a Flipkart SQL Basic Project
+**Intrduction**
